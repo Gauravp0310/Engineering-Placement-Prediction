@@ -1,0 +1,1 @@
+our objective is to predict the placement status of engineering college students—whether they are placed or not—based on the available features in our dataset. Rather than regression, we will employ various classification models to make binary predictions about the placement outcome.
